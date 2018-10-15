@@ -1,1 +1,1 @@
-console.log("I am a very advanced JavaScript application x10001")
+console.log("I am a very advanced JavaScript application x10002")
